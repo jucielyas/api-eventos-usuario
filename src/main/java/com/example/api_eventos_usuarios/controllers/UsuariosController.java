@@ -14,9 +14,7 @@ public class UsuariosController {
 
     @GetMapping
     public List<String> ListaUsuarios() {
-
-
-
+        
         List<String> strings = Collections.emptyList();
         return strings;
     }
